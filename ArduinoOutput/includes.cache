@@ -1,0 +1,42 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/Users/alexsem/Library/Arduino15/packages/arduino/hardware/avr/1.8.6/cores/arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/Users/alexsem/Library/Arduino15/packages/arduino/hardware/avr/1.8.6/variants/standard"
+  },
+  {
+    "Sourcefile": "/Users/alexsem/Documents/Coursework/BABY-SILENCER/ArduinoOutput/sketch/BirdCode.ino.cpp",
+    "Include": "Adafruit_NeoPixel.h",
+    "Includepath": "/Users/alexsem/Documents/Arduino/libraries/Adafruit_NeoPixel"
+  },
+  {
+    "Sourcefile": "/Users/alexsem/Documents/Coursework/BABY-SILENCER/ArduinoOutput/sketch/BirdCode.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/alexsem/Documents/Arduino/libraries/Adafruit_NeoPixel/Adafruit_NeoPixel.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/alexsem/Documents/Arduino/libraries/Adafruit_NeoPixel/esp.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/alexsem/Documents/Arduino/libraries/Adafruit_NeoPixel/esp8266.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/alexsem/Documents/Arduino/libraries/Adafruit_NeoPixel/kendyte_k210.c",
+    "Include": "",
+    "Includepath": null
+  }
+]
