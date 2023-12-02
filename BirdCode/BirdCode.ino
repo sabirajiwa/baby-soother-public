@@ -21,7 +21,7 @@ void program3() {
   Serial.println("Program 3");
 }
 
-int cycleCount = 1;
+volatile int cycleCount = 1;
 void cycle() {
   Serial.println("Interrupt");
     cycleCount++;
