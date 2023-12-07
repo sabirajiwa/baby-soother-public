@@ -1,6 +1,8 @@
 {
-    "board": "arduino:avr:uno",
+    "board": "arduino:avr:nano",
     "programmer": "arduinoisp",
-    "sketch": "BirdCode/BirdCode.ino",
-    "output": "./ArduinoOutput"
+    "sketch": "realcode/realcode.ino",
+    "output": "./ArduinoOutput",
+    "configuration": "cpu=atmega328",
+    "port": "/dev/tty.usbserial-1110"
 }

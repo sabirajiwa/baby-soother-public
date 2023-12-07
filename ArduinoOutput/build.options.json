@@ -3,9 +3,9 @@
   "builtInToolsFolders": "",
   "compiler.optimization_flags": "",
   "customBuildProperties": "",
-  "fqbn": "arduino:avr:uno",
+  "fqbn": "arduino:avr:nano:cpu=atmega328",
   "hardwareFolders": "/Users/alexsem/Library/Arduino15/packages",
   "otherLibrariesFolders": "/Users/alexsem/Documents/Arduino/libraries",
   "runtime.ide.version": "10607",
-  "sketchLocation": "/Users/alexsem/Documents/Coursework/BABY-SILENCER/BirdCode"
+  "sketchLocation": "/Users/alexsem/Documents/Coursework/BABY-SILENCER/realcode"
 }
